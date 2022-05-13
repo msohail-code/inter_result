@@ -63,6 +63,26 @@ namespace inter_result_card.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _50846584_746697255687447_5231444662459301888_n {
+            get {
+                object obj = ResourceManager.GetObject("50846584_746697255687447_5231444662459301888_n", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap logo_big_final_real_colored_200px {
+            get {
+                object obj = ResourceManager.GetObject("logo-big-final-real-colored-200px", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap WhatsApp_Image_2022_05_13_at_1_27_25_AM {
             get {
                 object obj = ResourceManager.GetObject("WhatsApp Image 2022-05-13 at 1.27.25 AM", resourceCulture);

@@ -80,6 +80,12 @@
   <ItemGroup>
     <None Include="Resources\WhatsApp Image 2022-05-13 at 1.27.25 AM.jpeg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo-big-final-real-colored-200px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\50846584_746697255687447_5231444662459301888_n.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

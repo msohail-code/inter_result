@@ -7,3 +7,8 @@ C:\Users\Sohail\AppData\Local\Temporary Projects\inter-result-card\obj\x86\Debug
 C:\Users\Sohail\AppData\Local\Temporary Projects\inter-result-card\obj\x86\Debug\inter-result-card.pdb
 C:\Users\Sohail\documents\visual studio 2010\Projects\inter-result-card\inter-result-card\obj\x86\Debug\inter-result-card.exe
 C:\Users\Sohail\documents\visual studio 2010\Projects\inter-result-card\inter-result-card\obj\x86\Debug\inter-result-card.pdb
+C:\Users\Sohail\documents\visual studio 2010\Projects\inter-result-card\inter-result-card\bin\Debug\inter-result-card.exe
+C:\Users\Sohail\documents\visual studio 2010\Projects\inter-result-card\inter-result-card\bin\Debug\inter-result-card.pdb
+C:\Users\Sohail\documents\visual studio 2010\Projects\inter-result-card\inter-result-card\obj\x86\Debug\inter_result_card.Form1.resources
+C:\Users\Sohail\documents\visual studio 2010\Projects\inter-result-card\inter-result-card\obj\x86\Debug\inter_result_card.Properties.Resources.resources
+C:\Users\Sohail\documents\visual studio 2010\Projects\inter-result-card\inter-result-card\obj\x86\Debug\inter-result-card.csproj.GenerateResource.Cache

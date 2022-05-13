@@ -111,6 +111,24 @@
             this.calculateBtn = new System.Windows.Forms.Label();
             this.closeBtn = new System.Windows.Forms.Label();
             this.label26 = new System.Windows.Forms.Label();
+            this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.label27 = new System.Windows.Forms.Label();
+            this.label28 = new System.Windows.Forms.Label();
+            this.label29 = new System.Windows.Forms.Label();
+            this.label30 = new System.Windows.Forms.Label();
+            this.label31 = new System.Windows.Forms.Label();
+            this.label32 = new System.Windows.Forms.Label();
+            this.label33 = new System.Windows.Forms.Label();
+            this.label34 = new System.Windows.Forms.Label();
+            this.label35 = new System.Windows.Forms.Label();
+            this.label36 = new System.Windows.Forms.Label();
+            this.label37 = new System.Windows.Forms.Label();
+            this.label38 = new System.Windows.Forms.Label();
+            this.label39 = new System.Windows.Forms.Label();
+            this.label40 = new System.Windows.Forms.Label();
+            this.label41 = new System.Windows.Forms.Label();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.pictureBox2 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.is_11)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.ps_11)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.urdu_11)).BeginInit();
@@ -132,6 +150,9 @@
             ((System.ComponentModel.ISupportInitialize)(this.computer_practical)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.eng_practical)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.math_practical)).BeginInit();
+            this.groupBox1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -983,10 +1004,10 @@
             this.calculateBtn.Cursor = System.Windows.Forms.Cursors.Hand;
             this.calculateBtn.Font = new System.Drawing.Font("Arial Narrow", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.calculateBtn.ForeColor = System.Drawing.Color.White;
-            this.calculateBtn.Location = new System.Drawing.Point(371, 510);
+            this.calculateBtn.Location = new System.Drawing.Point(371, 504);
             this.calculateBtn.Name = "calculateBtn";
-            this.calculateBtn.Padding = new System.Windows.Forms.Padding(10, 5, 10, 5);
-            this.calculateBtn.Size = new System.Drawing.Size(86, 30);
+            this.calculateBtn.Padding = new System.Windows.Forms.Padding(15, 10, 15, 10);
+            this.calculateBtn.Size = new System.Drawing.Size(96, 40);
             this.calculateBtn.TabIndex = 8;
             this.calculateBtn.Text = "Calculate";
             this.calculateBtn.Click += new System.EventHandler(this.calculateBtn_Click);
@@ -1009,12 +1030,205 @@
             // label26
             // 
             this.label26.AutoSize = true;
-            this.label26.Font = new System.Drawing.Font("Arial", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label26.Location = new System.Drawing.Point(219, 9);
+            this.label26.Font = new System.Drawing.Font("Arial", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label26.Location = new System.Drawing.Point(183, 9);
             this.label26.Name = "label26";
-            this.label26.Size = new System.Drawing.Size(307, 29);
+            this.label26.Size = new System.Drawing.Size(524, 24);
             this.label26.TabIndex = 11;
-            this.label26.Text = "Intermediate Result Sheet";
+            this.label26.Text = "Board of Intermediate and Seconday Education, Multan";
+            // 
+            // groupBox1
+            // 
+            this.groupBox1.Controls.Add(this.label40);
+            this.groupBox1.Controls.Add(this.label41);
+            this.groupBox1.Controls.Add(this.label38);
+            this.groupBox1.Controls.Add(this.label39);
+            this.groupBox1.Controls.Add(this.label36);
+            this.groupBox1.Controls.Add(this.label37);
+            this.groupBox1.Controls.Add(this.pictureBox2);
+            this.groupBox1.Controls.Add(this.label31);
+            this.groupBox1.Controls.Add(this.label35);
+            this.groupBox1.Controls.Add(this.label33);
+            this.groupBox1.Controls.Add(this.label34);
+            this.groupBox1.Controls.Add(this.label32);
+            this.groupBox1.Controls.Add(this.label30);
+            this.groupBox1.Controls.Add(this.label29);
+            this.groupBox1.Location = new System.Drawing.Point(11, 91);
+            this.groupBox1.Name = "groupBox1";
+            this.groupBox1.Size = new System.Drawing.Size(824, 149);
+            this.groupBox1.TabIndex = 12;
+            this.groupBox1.TabStop = false;
+            // 
+            // label27
+            // 
+            this.label27.AutoSize = true;
+            this.label27.Font = new System.Drawing.Font("Arial", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label27.Location = new System.Drawing.Point(293, 33);
+            this.label27.Name = "label27";
+            this.label27.Size = new System.Drawing.Size(292, 24);
+            this.label27.TabIndex = 11;
+            this.label27.Text = "Provensial Result Intimation";
+            // 
+            // label28
+            // 
+            this.label28.AutoSize = true;
+            this.label28.Font = new System.Drawing.Font("Arial", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label28.Location = new System.Drawing.Point(215, 57);
+            this.label28.Name = "label28";
+            this.label28.Size = new System.Drawing.Size(463, 24);
+            this.label28.TabIndex = 11;
+            this.label28.Text = "INTERMEDIATE (ANNUAL) EXAMINATION, 2019";
+            // 
+            // label29
+            // 
+            this.label29.AutoSize = true;
+            this.label29.Font = new System.Drawing.Font("Arial Narrow", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label29.Location = new System.Drawing.Point(696, 15);
+            this.label29.Name = "label29";
+            this.label29.Size = new System.Drawing.Size(104, 23);
+            this.label29.TabIndex = 11;
+            this.label29.Text = "Sr.No. 25791";
+            // 
+            // label30
+            // 
+            this.label30.AutoSize = true;
+            this.label30.Font = new System.Drawing.Font("Arial Narrow", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label30.Location = new System.Drawing.Point(6, 16);
+            this.label30.Name = "label30";
+            this.label30.Size = new System.Drawing.Size(69, 23);
+            this.label30.TabIndex = 11;
+            this.label30.Text = "Roll No:";
+            // 
+            // label31
+            // 
+            this.label31.AutoSize = true;
+            this.label31.Font = new System.Drawing.Font("Arial Narrow", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label31.Location = new System.Drawing.Point(82, 16);
+            this.label31.Name = "label31";
+            this.label31.Size = new System.Drawing.Size(64, 23);
+            this.label31.TabIndex = 11;
+            this.label31.Text = "427237";
+            // 
+            // label32
+            // 
+            this.label32.AutoSize = true;
+            this.label32.Font = new System.Drawing.Font("Arial Narrow", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label32.Location = new System.Drawing.Point(6, 39);
+            this.label32.Name = "label32";
+            this.label32.Size = new System.Drawing.Size(114, 20);
+            this.label32.TabIndex = 11;
+            this.label32.Text = "Candidate Name:";
+            // 
+            // label33
+            // 
+            this.label33.AutoSize = true;
+            this.label33.Font = new System.Drawing.Font("Arial Narrow", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label33.Location = new System.Drawing.Point(126, 39);
+            this.label33.Name = "label33";
+            this.label33.Size = new System.Drawing.Size(206, 20);
+            this.label33.TabIndex = 11;
+            this.label33.Text = "MUHAMMAD IDREES SHAREEF";
+            // 
+            // label34
+            // 
+            this.label34.AutoSize = true;
+            this.label34.Font = new System.Drawing.Font("Arial Narrow", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label34.Location = new System.Drawing.Point(6, 59);
+            this.label34.Name = "label34";
+            this.label34.Size = new System.Drawing.Size(101, 20);
+            this.label34.TabIndex = 11;
+            this.label34.Text = "Father\'s Name:";
+            // 
+            // label35
+            // 
+            this.label35.AutoSize = true;
+            this.label35.Font = new System.Drawing.Font("Arial Narrow", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label35.Location = new System.Drawing.Point(126, 59);
+            this.label35.Name = "label35";
+            this.label35.Size = new System.Drawing.Size(153, 20);
+            this.label35.TabIndex = 11;
+            this.label35.Text = "MUHAMMAD SHAREEF";
+            // 
+            // label36
+            // 
+            this.label36.AutoSize = true;
+            this.label36.Font = new System.Drawing.Font("Arial Narrow", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label36.Location = new System.Drawing.Point(145, 79);
+            this.label36.Name = "label36";
+            this.label36.Size = new System.Drawing.Size(136, 20);
+            this.label36.TabIndex = 15;
+            this.label36.Text = "384-56373678-436374";
+            // 
+            // label37
+            // 
+            this.label37.AutoSize = true;
+            this.label37.Font = new System.Drawing.Font("Arial Narrow", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label37.Location = new System.Drawing.Point(6, 79);
+            this.label37.Name = "label37";
+            this.label37.Size = new System.Drawing.Size(138, 20);
+            this.label37.TabIndex = 14;
+            this.label37.Text = "Enrollment number: ";
+            // 
+            // label38
+            // 
+            this.label38.AutoSize = true;
+            this.label38.Font = new System.Drawing.Font("Arial Narrow", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label38.Location = new System.Drawing.Point(88, 99);
+            this.label38.Name = "label38";
+            this.label38.Size = new System.Drawing.Size(256, 20);
+            this.label38.TabIndex = 17;
+            this.label38.Text = "SIST COLLEGE SURAJ MINAI, MULTAN";
+            // 
+            // label39
+            // 
+            this.label39.AutoSize = true;
+            this.label39.Font = new System.Drawing.Font("Arial Narrow", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label39.Location = new System.Drawing.Point(6, 99);
+            this.label39.Name = "label39";
+            this.label39.Size = new System.Drawing.Size(76, 20);
+            this.label39.TabIndex = 16;
+            this.label39.Text = "Institution:";
+            // 
+            // label40
+            // 
+            this.label40.AutoSize = true;
+            this.label40.Font = new System.Drawing.Font("Arial Narrow", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label40.Location = new System.Drawing.Point(88, 120);
+            this.label40.Name = "label40";
+            this.label40.Size = new System.Drawing.Size(288, 20);
+            this.label40.TabIndex = 19;
+            this.label40.Text = "The Detail of marks obtained is given below:-";
+            // 
+            // label41
+            // 
+            this.label41.AutoSize = true;
+            this.label41.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label41.Font = new System.Drawing.Font("Arial Narrow", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label41.Location = new System.Drawing.Point(8, 119);
+            this.label41.Name = "label41";
+            this.label41.Size = new System.Drawing.Size(65, 22);
+            this.label41.TabIndex = 18;
+            this.label41.Text = "PASSED";
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = global::inter_result_card.Properties.Resources.logo_big_final_real_colored_200px;
+            this.pictureBox1.Location = new System.Drawing.Point(26, 6);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(116, 85);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 13;
+            this.pictureBox1.TabStop = false;
+            // 
+            // pictureBox2
+            // 
+            this.pictureBox2.Image = global::inter_result_card.Properties.Resources._50846584_746697255687447_5231444662459301888_n;
+            this.pictureBox2.Location = new System.Drawing.Point(687, 42);
+            this.pictureBox2.Name = "pictureBox2";
+            this.pictureBox2.Size = new System.Drawing.Size(128, 101);
+            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox2.TabIndex = 13;
+            this.pictureBox2.TabStop = false;
             // 
             // Form1
             // 
@@ -1024,6 +1238,10 @@
             this.BackColor = System.Drawing.SystemColors.Window;
             this.ClientSize = new System.Drawing.Size(845, 549);
             this.ControlBox = false;
+            this.Controls.Add(this.pictureBox1);
+            this.Controls.Add(this.groupBox1);
+            this.Controls.Add(this.label27);
+            this.Controls.Add(this.label28);
             this.Controls.Add(this.label26);
             this.Controls.Add(this.closeBtn);
             this.Controls.Add(this.calculateBtn);
@@ -1131,6 +1349,10 @@
             ((System.ComponentModel.ISupportInitialize)(this.computer_practical)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.eng_practical)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.math_practical)).EndInit();
+            this.groupBox1.ResumeLayout(false);
+            this.groupBox1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -1220,6 +1442,24 @@
         private System.Windows.Forms.Label calculateBtn;
         private System.Windows.Forms.Label closeBtn;
         private System.Windows.Forms.Label label26;
+        private System.Windows.Forms.GroupBox groupBox1;
+        private System.Windows.Forms.Label label27;
+        private System.Windows.Forms.Label label28;
+        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.PictureBox pictureBox2;
+        private System.Windows.Forms.Label label31;
+        private System.Windows.Forms.Label label30;
+        private System.Windows.Forms.Label label29;
+        private System.Windows.Forms.Label label35;
+        private System.Windows.Forms.Label label33;
+        private System.Windows.Forms.Label label34;
+        private System.Windows.Forms.Label label32;
+        private System.Windows.Forms.Label label40;
+        private System.Windows.Forms.Label label41;
+        private System.Windows.Forms.Label label38;
+        private System.Windows.Forms.Label label39;
+        private System.Windows.Forms.Label label36;
+        private System.Windows.Forms.Label label37;
     }
 }
 
